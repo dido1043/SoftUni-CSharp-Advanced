@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Stacks_and_Queues
 {
@@ -6,7 +7,16 @@ namespace Stacks_and_Queues
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Stack<char> stack = new Stack<char>();
+            string str = Console.ReadLine();
+            foreach (var item in str)
+            {
+                stack.Push(item);
+            }
+            while (stack.Count > 0)
+            {
+                Console.Write(stack.Pop());
+            }
         }
     }
 }

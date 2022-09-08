@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp3.1\Stacks and Queues.exe
+D:\softuni\C# Advanced\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp3.1\Stacks and Queues.deps.json
+D:\softuni\C# Advanced\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp3.1\Stacks and Queues.runtimeconfig.json
+D:\softuni\C# Advanced\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp3.1\Stacks and Queues.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp3.1\Stacks and Queues.dll
+D:\softuni\C# Advanced\Stacks and Queues\Stacks and Queues\bin\Debug\netcoreapp3.1\Stacks and Queues.pdb
+D:\softuni\C# Advanced\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.AssemblyInfo.cs
+D:\softuni\C# Advanced\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.dll
+D:\softuni\C# Advanced\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.pdb
+D:\softuni\C# Advanced\Stacks and Queues\Stacks and Queues\obj\Debug\netcoreapp3.1\Stacks and Queues.genruntimeconfig.cache
