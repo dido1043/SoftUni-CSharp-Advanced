@@ -23,7 +23,6 @@ namespace T05.PrintEvenNumbers
                     list.Add(item);
                 }  
             }
-            Console.WriteLine(String.Join(", ", list));
         }
     }
 }
