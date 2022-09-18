@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\T05.SquareWithMaximumSum.exe
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\T05.SquareWithMaximumSum.deps.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\T05.SquareWithMaximumSum.runtimeconfig.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\T05.SquareWithMaximumSum.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\T05.SquareWithMaximumSum.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\T05.SquareWithMaximumSum.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\T05.SquareWithMaximumSum.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\T05.SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\T05.SquareWithMaximumSum.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\T05.SquareWithMaximumSum.AssemblyInfo.cs
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\T05.SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\T05.SquareWithMaximumSum.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\T05.SquareWithMaximumSum.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\T05.SquareWithMaximumSum.genruntimeconfig.cache
