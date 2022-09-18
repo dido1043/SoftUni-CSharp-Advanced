@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Multidemetional Arrays\Multidimensional Arrays\bin\Debug\netcoreapp3.1\Multidimensional Arrays.exe
+D:\softuni\C# Advanced\Multidemetional Arrays\Multidimensional Arrays\bin\Debug\netcoreapp3.1\Multidimensional Arrays.deps.json
+D:\softuni\C# Advanced\Multidemetional Arrays\Multidimensional Arrays\bin\Debug\netcoreapp3.1\Multidimensional Arrays.runtimeconfig.json
+D:\softuni\C# Advanced\Multidemetional Arrays\Multidimensional Arrays\bin\Debug\netcoreapp3.1\Multidimensional Arrays.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Multidemetional Arrays\Multidimensional Arrays\bin\Debug\netcoreapp3.1\Multidimensional Arrays.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\Multidimensional Arrays\bin\Debug\netcoreapp3.1\Multidimensional Arrays.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp3.1\Multidimensional Arrays.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp3.1\Multidimensional Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Multidemetional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp3.1\Multidimensional Arrays.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp3.1\Multidimensional Arrays.AssemblyInfo.cs
+D:\softuni\C# Advanced\Multidemetional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp3.1\Multidimensional Arrays.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp3.1\Multidimensional Arrays.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp3.1\Multidimensional Arrays.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp3.1\Multidimensional Arrays.genruntimeconfig.cache

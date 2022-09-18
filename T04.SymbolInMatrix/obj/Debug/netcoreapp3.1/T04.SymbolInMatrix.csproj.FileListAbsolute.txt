@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.SymbolInMatrix\bin\Debug\netcoreapp3.1\T04.SymbolInMatrix.exe
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.SymbolInMatrix\bin\Debug\netcoreapp3.1\T04.SymbolInMatrix.deps.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.SymbolInMatrix\bin\Debug\netcoreapp3.1\T04.SymbolInMatrix.runtimeconfig.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.SymbolInMatrix\bin\Debug\netcoreapp3.1\T04.SymbolInMatrix.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.SymbolInMatrix\bin\Debug\netcoreapp3.1\T04.SymbolInMatrix.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.SymbolInMatrix\bin\Debug\netcoreapp3.1\T04.SymbolInMatrix.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.SymbolInMatrix\obj\Debug\netcoreapp3.1\T04.SymbolInMatrix.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.SymbolInMatrix\obj\Debug\netcoreapp3.1\T04.SymbolInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.SymbolInMatrix\obj\Debug\netcoreapp3.1\T04.SymbolInMatrix.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.SymbolInMatrix\obj\Debug\netcoreapp3.1\T04.SymbolInMatrix.AssemblyInfo.cs
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.SymbolInMatrix\obj\Debug\netcoreapp3.1\T04.SymbolInMatrix.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.SymbolInMatrix\obj\Debug\netcoreapp3.1\T04.SymbolInMatrix.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.SymbolInMatrix\obj\Debug\netcoreapp3.1\T04.SymbolInMatrix.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.SymbolInMatrix\obj\Debug\netcoreapp3.1\T04.SymbolInMatrix.genruntimeconfig.cache
