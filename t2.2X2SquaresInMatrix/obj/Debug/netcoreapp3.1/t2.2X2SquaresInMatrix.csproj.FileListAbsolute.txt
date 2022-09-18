@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\t2.2X2SquaresInMatrix.exe
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\t2.2X2SquaresInMatrix.deps.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\t2.2X2SquaresInMatrix.runtimeconfig.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\t2.2X2SquaresInMatrix.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\t2.2X2SquaresInMatrix.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.2X2SquaresInMatrix\bin\Debug\netcoreapp3.1\t2.2X2SquaresInMatrix.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\t2.2X2SquaresInMatrix.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\t2.2X2SquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\t2.2X2SquaresInMatrix.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\t2.2X2SquaresInMatrix.AssemblyInfo.cs
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\t2.2X2SquaresInMatrix.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\t2.2X2SquaresInMatrix.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\t2.2X2SquaresInMatrix.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.2X2SquaresInMatrix\obj\Debug\netcoreapp3.1\t2.2X2SquaresInMatrix.genruntimeconfig.cache

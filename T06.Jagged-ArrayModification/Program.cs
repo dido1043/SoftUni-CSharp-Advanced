@@ -33,7 +33,7 @@ namespace T06.Jagged_ArrayModification
                     {
                         jaggedAray[row][col] += value;
                     }
-                    else if (operation == "Substract")
+                    else if (operation == "Subtract")
                     {
                         jaggedAray[row][col] -= value;
                     }
