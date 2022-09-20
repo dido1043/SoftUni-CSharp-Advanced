@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "t3.MaximalSum/1.0.0": {
+        "runtime": {
+          "t3.MaximalSum.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "t3.MaximalSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

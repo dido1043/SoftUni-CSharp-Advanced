@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Multidemetional Arrays\t5.SnakeMoves\bin\Debug\netcoreapp3.1\t5.SnakeMoves.exe
+D:\softuni\C# Advanced\Multidemetional Arrays\t5.SnakeMoves\bin\Debug\netcoreapp3.1\t5.SnakeMoves.deps.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t5.SnakeMoves\bin\Debug\netcoreapp3.1\t5.SnakeMoves.runtimeconfig.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t5.SnakeMoves\bin\Debug\netcoreapp3.1\t5.SnakeMoves.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t5.SnakeMoves\bin\Debug\netcoreapp3.1\t5.SnakeMoves.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\t5.SnakeMoves\bin\Debug\netcoreapp3.1\t5.SnakeMoves.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\t5.SnakeMoves\obj\Debug\netcoreapp3.1\t5.SnakeMoves.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t5.SnakeMoves\obj\Debug\netcoreapp3.1\t5.SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Multidemetional Arrays\t5.SnakeMoves\obj\Debug\netcoreapp3.1\t5.SnakeMoves.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t5.SnakeMoves\obj\Debug\netcoreapp3.1\t5.SnakeMoves.AssemblyInfo.cs
+D:\softuni\C# Advanced\Multidemetional Arrays\t5.SnakeMoves\obj\Debug\netcoreapp3.1\t5.SnakeMoves.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t5.SnakeMoves\obj\Debug\netcoreapp3.1\t5.SnakeMoves.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\t5.SnakeMoves\obj\Debug\netcoreapp3.1\t5.SnakeMoves.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\t5.SnakeMoves\obj\Debug\netcoreapp3.1\t5.SnakeMoves.genruntimeconfig.cache

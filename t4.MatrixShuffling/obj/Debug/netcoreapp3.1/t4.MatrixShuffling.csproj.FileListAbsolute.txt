@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Multidemetional Arrays\t4.MatrixShuffling\bin\Debug\netcoreapp3.1\t4.MatrixShuffling.exe
+D:\softuni\C# Advanced\Multidemetional Arrays\t4.MatrixShuffling\bin\Debug\netcoreapp3.1\t4.MatrixShuffling.deps.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t4.MatrixShuffling\bin\Debug\netcoreapp3.1\t4.MatrixShuffling.runtimeconfig.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t4.MatrixShuffling\bin\Debug\netcoreapp3.1\t4.MatrixShuffling.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t4.MatrixShuffling\bin\Debug\netcoreapp3.1\t4.MatrixShuffling.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\t4.MatrixShuffling\bin\Debug\netcoreapp3.1\t4.MatrixShuffling.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\t4.MatrixShuffling\obj\Debug\netcoreapp3.1\t4.MatrixShuffling.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t4.MatrixShuffling\obj\Debug\netcoreapp3.1\t4.MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Multidemetional Arrays\t4.MatrixShuffling\obj\Debug\netcoreapp3.1\t4.MatrixShuffling.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t4.MatrixShuffling\obj\Debug\netcoreapp3.1\t4.MatrixShuffling.AssemblyInfo.cs
+D:\softuni\C# Advanced\Multidemetional Arrays\t4.MatrixShuffling\obj\Debug\netcoreapp3.1\t4.MatrixShuffling.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t4.MatrixShuffling\obj\Debug\netcoreapp3.1\t4.MatrixShuffling.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\t4.MatrixShuffling\obj\Debug\netcoreapp3.1\t4.MatrixShuffling.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\t4.MatrixShuffling\obj\Debug\netcoreapp3.1\t4.MatrixShuffling.genruntimeconfig.cache

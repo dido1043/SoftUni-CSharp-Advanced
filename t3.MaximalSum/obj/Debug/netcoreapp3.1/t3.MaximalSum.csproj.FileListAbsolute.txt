@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Multidemetional Arrays\t3.MaximalSum\bin\Debug\netcoreapp3.1\t3.MaximalSum.exe
+D:\softuni\C# Advanced\Multidemetional Arrays\t3.MaximalSum\bin\Debug\netcoreapp3.1\t3.MaximalSum.deps.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t3.MaximalSum\bin\Debug\netcoreapp3.1\t3.MaximalSum.runtimeconfig.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t3.MaximalSum\bin\Debug\netcoreapp3.1\t3.MaximalSum.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t3.MaximalSum\bin\Debug\netcoreapp3.1\t3.MaximalSum.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\t3.MaximalSum\bin\Debug\netcoreapp3.1\t3.MaximalSum.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\t3.MaximalSum\obj\Debug\netcoreapp3.1\t3.MaximalSum.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t3.MaximalSum\obj\Debug\netcoreapp3.1\t3.MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Multidemetional Arrays\t3.MaximalSum\obj\Debug\netcoreapp3.1\t3.MaximalSum.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t3.MaximalSum\obj\Debug\netcoreapp3.1\t3.MaximalSum.AssemblyInfo.cs
+D:\softuni\C# Advanced\Multidemetional Arrays\t3.MaximalSum\obj\Debug\netcoreapp3.1\t3.MaximalSum.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t3.MaximalSum\obj\Debug\netcoreapp3.1\t3.MaximalSum.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\t3.MaximalSum\obj\Debug\netcoreapp3.1\t3.MaximalSum.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\t3.MaximalSum\obj\Debug\netcoreapp3.1\t3.MaximalSum.genruntimeconfig.cache
