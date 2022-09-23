@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Multidemetional Arrays\T07.ParkingLot\bin\Debug\netcoreapp3.1\T07.ParkingLot.exe
+D:\softuni\C# Advanced\Multidemetional Arrays\T07.ParkingLot\bin\Debug\netcoreapp3.1\T07.ParkingLot.deps.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T07.ParkingLot\bin\Debug\netcoreapp3.1\T07.ParkingLot.runtimeconfig.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T07.ParkingLot\bin\Debug\netcoreapp3.1\T07.ParkingLot.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T07.ParkingLot\bin\Debug\netcoreapp3.1\T07.ParkingLot.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\T07.ParkingLot\bin\Debug\netcoreapp3.1\T07.ParkingLot.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\T07.ParkingLot\obj\Debug\netcoreapp3.1\T07.ParkingLot.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T07.ParkingLot\obj\Debug\netcoreapp3.1\T07.ParkingLot.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Multidemetional Arrays\T07.ParkingLot\obj\Debug\netcoreapp3.1\T07.ParkingLot.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T07.ParkingLot\obj\Debug\netcoreapp3.1\T07.ParkingLot.AssemblyInfo.cs
+D:\softuni\C# Advanced\Multidemetional Arrays\T07.ParkingLot\obj\Debug\netcoreapp3.1\T07.ParkingLot.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T07.ParkingLot\obj\Debug\netcoreapp3.1\T07.ParkingLot.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\T07.ParkingLot\obj\Debug\netcoreapp3.1\T07.ParkingLot.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\T07.ParkingLot\obj\Debug\netcoreapp3.1\T07.ParkingLot.genruntimeconfig.cache

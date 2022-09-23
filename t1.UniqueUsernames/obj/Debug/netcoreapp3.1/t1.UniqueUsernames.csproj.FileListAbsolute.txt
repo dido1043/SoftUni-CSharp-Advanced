@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Multidemetional Arrays\t1.UniqueUsernames\bin\Debug\netcoreapp3.1\t1.UniqueUsernames.exe
+D:\softuni\C# Advanced\Multidemetional Arrays\t1.UniqueUsernames\bin\Debug\netcoreapp3.1\t1.UniqueUsernames.deps.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t1.UniqueUsernames\bin\Debug\netcoreapp3.1\t1.UniqueUsernames.runtimeconfig.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t1.UniqueUsernames\bin\Debug\netcoreapp3.1\t1.UniqueUsernames.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t1.UniqueUsernames\bin\Debug\netcoreapp3.1\t1.UniqueUsernames.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\t1.UniqueUsernames\bin\Debug\netcoreapp3.1\t1.UniqueUsernames.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\t1.UniqueUsernames\obj\Debug\netcoreapp3.1\t1.UniqueUsernames.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t1.UniqueUsernames\obj\Debug\netcoreapp3.1\t1.UniqueUsernames.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Multidemetional Arrays\t1.UniqueUsernames\obj\Debug\netcoreapp3.1\t1.UniqueUsernames.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t1.UniqueUsernames\obj\Debug\netcoreapp3.1\t1.UniqueUsernames.AssemblyInfo.cs
+D:\softuni\C# Advanced\Multidemetional Arrays\t1.UniqueUsernames\obj\Debug\netcoreapp3.1\t1.UniqueUsernames.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t1.UniqueUsernames\obj\Debug\netcoreapp3.1\t1.UniqueUsernames.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\t1.UniqueUsernames\obj\Debug\netcoreapp3.1\t1.UniqueUsernames.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\t1.UniqueUsernames\obj\Debug\netcoreapp3.1\t1.UniqueUsernames.genruntimeconfig.cache

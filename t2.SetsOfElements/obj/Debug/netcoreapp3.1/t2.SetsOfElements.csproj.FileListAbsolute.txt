@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.SetsOfElements\bin\Debug\netcoreapp3.1\t2.SetsOfElements.exe
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.SetsOfElements\bin\Debug\netcoreapp3.1\t2.SetsOfElements.deps.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.SetsOfElements\bin\Debug\netcoreapp3.1\t2.SetsOfElements.runtimeconfig.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.SetsOfElements\bin\Debug\netcoreapp3.1\t2.SetsOfElements.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.SetsOfElements\bin\Debug\netcoreapp3.1\t2.SetsOfElements.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.SetsOfElements\bin\Debug\netcoreapp3.1\t2.SetsOfElements.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.SetsOfElements\obj\Debug\netcoreapp3.1\t2.SetsOfElements.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.SetsOfElements\obj\Debug\netcoreapp3.1\t2.SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.SetsOfElements\obj\Debug\netcoreapp3.1\t2.SetsOfElements.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.SetsOfElements\obj\Debug\netcoreapp3.1\t2.SetsOfElements.AssemblyInfo.cs
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.SetsOfElements\obj\Debug\netcoreapp3.1\t2.SetsOfElements.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.SetsOfElements\obj\Debug\netcoreapp3.1\t2.SetsOfElements.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.SetsOfElements\obj\Debug\netcoreapp3.1\t2.SetsOfElements.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\t2.SetsOfElements\obj\Debug\netcoreapp3.1\t2.SetsOfElements.genruntimeconfig.cache
