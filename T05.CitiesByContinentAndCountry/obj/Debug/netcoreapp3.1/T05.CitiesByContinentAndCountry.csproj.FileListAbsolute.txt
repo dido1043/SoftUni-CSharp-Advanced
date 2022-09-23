@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\T05.CitiesByContinentAndCountry.exe
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\T05.CitiesByContinentAndCountry.deps.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\T05.CitiesByContinentAndCountry.runtimeconfig.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\T05.CitiesByContinentAndCountry.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\T05.CitiesByContinentAndCountry.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\T05.CitiesByContinentAndCountry.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\T05.CitiesByContinentAndCountry.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\T05.CitiesByContinentAndCountry.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\T05.CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\T05.CitiesByContinentAndCountry.AssemblyInfo.cs
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\T05.CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\T05.CitiesByContinentAndCountry.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\T05.CitiesByContinentAndCountry.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\T05.CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\T05.CitiesByContinentAndCountry.genruntimeconfig.cache

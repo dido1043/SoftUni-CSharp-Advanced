@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Multidemetional Arrays\T03.Largest3Numbers\bin\Debug\netcoreapp3.1\T03.Largest3Numbers.exe
+D:\softuni\C# Advanced\Multidemetional Arrays\T03.Largest3Numbers\bin\Debug\netcoreapp3.1\T03.Largest3Numbers.deps.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T03.Largest3Numbers\bin\Debug\netcoreapp3.1\T03.Largest3Numbers.runtimeconfig.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T03.Largest3Numbers\bin\Debug\netcoreapp3.1\T03.Largest3Numbers.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T03.Largest3Numbers\bin\Debug\netcoreapp3.1\T03.Largest3Numbers.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\T03.Largest3Numbers\bin\Debug\netcoreapp3.1\T03.Largest3Numbers.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\T03.Largest3Numbers\obj\Debug\netcoreapp3.1\T03.Largest3Numbers.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T03.Largest3Numbers\obj\Debug\netcoreapp3.1\T03.Largest3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Multidemetional Arrays\T03.Largest3Numbers\obj\Debug\netcoreapp3.1\T03.Largest3Numbers.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T03.Largest3Numbers\obj\Debug\netcoreapp3.1\T03.Largest3Numbers.AssemblyInfo.cs
+D:\softuni\C# Advanced\Multidemetional Arrays\T03.Largest3Numbers\obj\Debug\netcoreapp3.1\T03.Largest3Numbers.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T03.Largest3Numbers\obj\Debug\netcoreapp3.1\T03.Largest3Numbers.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\T03.Largest3Numbers\obj\Debug\netcoreapp3.1\T03.Largest3Numbers.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\T03.Largest3Numbers\obj\Debug\netcoreapp3.1\T03.Largest3Numbers.genruntimeconfig.cache

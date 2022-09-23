@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Multidemetional Arrays\T02.AverageStudentGrades\bin\Debug\netcoreapp3.1\T02.AverageStudentGrades.exe
+D:\softuni\C# Advanced\Multidemetional Arrays\T02.AverageStudentGrades\bin\Debug\netcoreapp3.1\T02.AverageStudentGrades.deps.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T02.AverageStudentGrades\bin\Debug\netcoreapp3.1\T02.AverageStudentGrades.runtimeconfig.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T02.AverageStudentGrades\bin\Debug\netcoreapp3.1\T02.AverageStudentGrades.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T02.AverageStudentGrades\bin\Debug\netcoreapp3.1\T02.AverageStudentGrades.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\T02.AverageStudentGrades\bin\Debug\netcoreapp3.1\T02.AverageStudentGrades.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\T02.AverageStudentGrades\obj\Debug\netcoreapp3.1\T02.AverageStudentGrades.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T02.AverageStudentGrades\obj\Debug\netcoreapp3.1\T02.AverageStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Multidemetional Arrays\T02.AverageStudentGrades\obj\Debug\netcoreapp3.1\T02.AverageStudentGrades.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T02.AverageStudentGrades\obj\Debug\netcoreapp3.1\T02.AverageStudentGrades.AssemblyInfo.cs
+D:\softuni\C# Advanced\Multidemetional Arrays\T02.AverageStudentGrades\obj\Debug\netcoreapp3.1\T02.AverageStudentGrades.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T02.AverageStudentGrades\obj\Debug\netcoreapp3.1\T02.AverageStudentGrades.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\T02.AverageStudentGrades\obj\Debug\netcoreapp3.1\T02.AverageStudentGrades.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\T02.AverageStudentGrades\obj\Debug\netcoreapp3.1\T02.AverageStudentGrades.genruntimeconfig.cache

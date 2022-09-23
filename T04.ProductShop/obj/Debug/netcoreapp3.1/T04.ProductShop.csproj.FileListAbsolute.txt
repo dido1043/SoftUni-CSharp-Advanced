@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.ProductShop\bin\Debug\netcoreapp3.1\T04.ProductShop.exe
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.ProductShop\bin\Debug\netcoreapp3.1\T04.ProductShop.deps.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.ProductShop\bin\Debug\netcoreapp3.1\T04.ProductShop.runtimeconfig.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.ProductShop\bin\Debug\netcoreapp3.1\T04.ProductShop.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.ProductShop\bin\Debug\netcoreapp3.1\T04.ProductShop.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.ProductShop\bin\Debug\netcoreapp3.1\T04.ProductShop.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.ProductShop\obj\Debug\netcoreapp3.1\T04.ProductShop.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.ProductShop\obj\Debug\netcoreapp3.1\T04.ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.ProductShop\obj\Debug\netcoreapp3.1\T04.ProductShop.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.ProductShop\obj\Debug\netcoreapp3.1\T04.ProductShop.AssemblyInfo.cs
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.ProductShop\obj\Debug\netcoreapp3.1\T04.ProductShop.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.ProductShop\obj\Debug\netcoreapp3.1\T04.ProductShop.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.ProductShop\obj\Debug\netcoreapp3.1\T04.ProductShop.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\T04.ProductShop\obj\Debug\netcoreapp3.1\T04.ProductShop.genruntimeconfig.cache
