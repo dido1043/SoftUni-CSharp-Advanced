@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Multidemetional Arrays\t7.KnightGame\bin\Debug\netcoreapp3.1\t7.KnightGame.exe
+D:\softuni\C# Advanced\Multidemetional Arrays\t7.KnightGame\bin\Debug\netcoreapp3.1\t7.KnightGame.deps.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t7.KnightGame\bin\Debug\netcoreapp3.1\t7.KnightGame.runtimeconfig.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t7.KnightGame\bin\Debug\netcoreapp3.1\t7.KnightGame.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Multidemetional Arrays\t7.KnightGame\bin\Debug\netcoreapp3.1\t7.KnightGame.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\t7.KnightGame\bin\Debug\netcoreapp3.1\t7.KnightGame.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\t7.KnightGame\obj\Debug\netcoreapp3.1\t7.KnightGame.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t7.KnightGame\obj\Debug\netcoreapp3.1\t7.KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Multidemetional Arrays\t7.KnightGame\obj\Debug\netcoreapp3.1\t7.KnightGame.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t7.KnightGame\obj\Debug\netcoreapp3.1\t7.KnightGame.AssemblyInfo.cs
+D:\softuni\C# Advanced\Multidemetional Arrays\t7.KnightGame\obj\Debug\netcoreapp3.1\t7.KnightGame.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\t7.KnightGame\obj\Debug\netcoreapp3.1\t7.KnightGame.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\t7.KnightGame\obj\Debug\netcoreapp3.1\t7.KnightGame.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\t7.KnightGame\obj\Debug\netcoreapp3.1\t7.KnightGame.genruntimeconfig.cache

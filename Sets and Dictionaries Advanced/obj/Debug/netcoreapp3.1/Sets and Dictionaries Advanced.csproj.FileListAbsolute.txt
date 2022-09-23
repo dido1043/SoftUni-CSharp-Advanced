@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Multidemetional Arrays\Sets and Dictionaries Advanced\bin\Debug\netcoreapp3.1\Sets and Dictionaries Advanced.exe
+D:\softuni\C# Advanced\Multidemetional Arrays\Sets and Dictionaries Advanced\bin\Debug\netcoreapp3.1\Sets and Dictionaries Advanced.deps.json
+D:\softuni\C# Advanced\Multidemetional Arrays\Sets and Dictionaries Advanced\bin\Debug\netcoreapp3.1\Sets and Dictionaries Advanced.runtimeconfig.json
+D:\softuni\C# Advanced\Multidemetional Arrays\Sets and Dictionaries Advanced\bin\Debug\netcoreapp3.1\Sets and Dictionaries Advanced.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Multidemetional Arrays\Sets and Dictionaries Advanced\bin\Debug\netcoreapp3.1\Sets and Dictionaries Advanced.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\Sets and Dictionaries Advanced\bin\Debug\netcoreapp3.1\Sets and Dictionaries Advanced.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\Sets and Dictionaries Advanced\obj\Debug\netcoreapp3.1\Sets and Dictionaries Advanced.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\Sets and Dictionaries Advanced\obj\Debug\netcoreapp3.1\Sets and Dictionaries Advanced.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Multidemetional Arrays\Sets and Dictionaries Advanced\obj\Debug\netcoreapp3.1\Sets and Dictionaries Advanced.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\Sets and Dictionaries Advanced\obj\Debug\netcoreapp3.1\Sets and Dictionaries Advanced.AssemblyInfo.cs
+D:\softuni\C# Advanced\Multidemetional Arrays\Sets and Dictionaries Advanced\obj\Debug\netcoreapp3.1\Sets and Dictionaries Advanced.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Multidemetional Arrays\Sets and Dictionaries Advanced\obj\Debug\netcoreapp3.1\Sets and Dictionaries Advanced.dll
+D:\softuni\C# Advanced\Multidemetional Arrays\Sets and Dictionaries Advanced\obj\Debug\netcoreapp3.1\Sets and Dictionaries Advanced.pdb
+D:\softuni\C# Advanced\Multidemetional Arrays\Sets and Dictionaries Advanced\obj\Debug\netcoreapp3.1\Sets and Dictionaries Advanced.genruntimeconfig.cache
