@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Problem1\bin\Debug\netcoreapp3.1\Problem1.exe
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Problem1\bin\Debug\netcoreapp3.1\Problem1.deps.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Problem1\bin\Debug\netcoreapp3.1\Problem1.runtimeconfig.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Problem1\bin\Debug\netcoreapp3.1\Problem1.runtimeconfig.dev.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Problem1\bin\Debug\netcoreapp3.1\Problem1.dll
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Problem1\bin\Debug\netcoreapp3.1\Problem1.pdb
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Problem1\obj\Debug\netcoreapp3.1\Problem1.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Problem1\obj\Debug\netcoreapp3.1\Problem1.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Problem1\obj\Debug\netcoreapp3.1\Problem1.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Problem1\obj\Debug\netcoreapp3.1\Problem1.AssemblyInfo.cs
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Problem1\obj\Debug\netcoreapp3.1\Problem1.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Problem1\obj\Debug\netcoreapp3.1\Problem1.dll
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Problem1\obj\Debug\netcoreapp3.1\Problem1.pdb
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Problem1\obj\Debug\netcoreapp3.1\Problem1.genruntimeconfig.cache
