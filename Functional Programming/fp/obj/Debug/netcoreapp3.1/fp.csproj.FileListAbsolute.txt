@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Functional Programming\fp\bin\Debug\netcoreapp3.1\fp.exe
+D:\softuni\C# Advanced\Functional Programming\fp\bin\Debug\netcoreapp3.1\fp.deps.json
+D:\softuni\C# Advanced\Functional Programming\fp\bin\Debug\netcoreapp3.1\fp.runtimeconfig.json
+D:\softuni\C# Advanced\Functional Programming\fp\bin\Debug\netcoreapp3.1\fp.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Functional Programming\fp\bin\Debug\netcoreapp3.1\fp.dll
+D:\softuni\C# Advanced\Functional Programming\fp\bin\Debug\netcoreapp3.1\fp.pdb
+D:\softuni\C# Advanced\Functional Programming\fp\obj\Debug\netcoreapp3.1\fp.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Functional Programming\fp\obj\Debug\netcoreapp3.1\fp.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Functional Programming\fp\obj\Debug\netcoreapp3.1\fp.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Functional Programming\fp\obj\Debug\netcoreapp3.1\fp.AssemblyInfo.cs
+D:\softuni\C# Advanced\Functional Programming\fp\obj\Debug\netcoreapp3.1\fp.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Functional Programming\fp\obj\Debug\netcoreapp3.1\fp.dll
+D:\softuni\C# Advanced\Functional Programming\fp\obj\Debug\netcoreapp3.1\fp.pdb
+D:\softuni\C# Advanced\Functional Programming\fp\obj\Debug\netcoreapp3.1\fp.genruntimeconfig.cache
