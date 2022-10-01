@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\EXAM_PREP\Problems\warShips\bin\Debug\netcoreapp3.1\warShips.exe
+D:\softuni\C# Advanced\EXAM_PREP\Problems\warShips\bin\Debug\netcoreapp3.1\warShips.deps.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\warShips\bin\Debug\netcoreapp3.1\warShips.runtimeconfig.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\warShips\bin\Debug\netcoreapp3.1\warShips.runtimeconfig.dev.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\warShips\bin\Debug\netcoreapp3.1\warShips.dll
+D:\softuni\C# Advanced\EXAM_PREP\Problems\warShips\bin\Debug\netcoreapp3.1\warShips.pdb
+D:\softuni\C# Advanced\EXAM_PREP\Problems\warShips\obj\Debug\netcoreapp3.1\warShips.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\warShips\obj\Debug\netcoreapp3.1\warShips.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\EXAM_PREP\Problems\warShips\obj\Debug\netcoreapp3.1\warShips.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\warShips\obj\Debug\netcoreapp3.1\warShips.AssemblyInfo.cs
+D:\softuni\C# Advanced\EXAM_PREP\Problems\warShips\obj\Debug\netcoreapp3.1\warShips.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\warShips\obj\Debug\netcoreapp3.1\warShips.dll
+D:\softuni\C# Advanced\EXAM_PREP\Problems\warShips\obj\Debug\netcoreapp3.1\warShips.pdb
+D:\softuni\C# Advanced\EXAM_PREP\Problems\warShips\obj\Debug\netcoreapp3.1\warShips.genruntimeconfig.cache
