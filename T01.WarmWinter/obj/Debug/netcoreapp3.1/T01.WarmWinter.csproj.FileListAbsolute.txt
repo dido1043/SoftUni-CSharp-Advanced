@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T01.WarmWinter\bin\Debug\netcoreapp3.1\T01.WarmWinter.exe
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T01.WarmWinter\bin\Debug\netcoreapp3.1\T01.WarmWinter.deps.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T01.WarmWinter\bin\Debug\netcoreapp3.1\T01.WarmWinter.runtimeconfig.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T01.WarmWinter\bin\Debug\netcoreapp3.1\T01.WarmWinter.runtimeconfig.dev.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T01.WarmWinter\bin\Debug\netcoreapp3.1\T01.WarmWinter.dll
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T01.WarmWinter\bin\Debug\netcoreapp3.1\T01.WarmWinter.pdb
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T01.WarmWinter\obj\Debug\netcoreapp3.1\T01.WarmWinter.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T01.WarmWinter\obj\Debug\netcoreapp3.1\T01.WarmWinter.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T01.WarmWinter\obj\Debug\netcoreapp3.1\T01.WarmWinter.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T01.WarmWinter\obj\Debug\netcoreapp3.1\T01.WarmWinter.AssemblyInfo.cs
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T01.WarmWinter\obj\Debug\netcoreapp3.1\T01.WarmWinter.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T01.WarmWinter\obj\Debug\netcoreapp3.1\T01.WarmWinter.dll
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T01.WarmWinter\obj\Debug\netcoreapp3.1\T01.WarmWinter.pdb
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T01.WarmWinter\obj\Debug\netcoreapp3.1\T01.WarmWinter.genruntimeconfig.cache
