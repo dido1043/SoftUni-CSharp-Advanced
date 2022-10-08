@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\EXAM_PREP\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.exe
+D:\softuni\C# Advanced\EXAM_PREP\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.deps.json
+D:\softuni\C# Advanced\EXAM_PREP\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.json
+D:\softuni\C# Advanced\EXAM_PREP\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.runtimeconfig.dev.json
+D:\softuni\C# Advanced\EXAM_PREP\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.dll
+D:\softuni\C# Advanced\EXAM_PREP\03. VetClinic_Skeleton\VetClinic\bin\Debug\netcoreapp3.1\VetClinic.pdb
+D:\softuni\C# Advanced\EXAM_PREP\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\EXAM_PREP\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\EXAM_PREP\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\EXAM_PREP\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.AssemblyInfo.cs
+D:\softuni\C# Advanced\EXAM_PREP\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\EXAM_PREP\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.dll
+D:\softuni\C# Advanced\EXAM_PREP\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.pdb
+D:\softuni\C# Advanced\EXAM_PREP\03. VetClinic_Skeleton\VetClinic\obj\Debug\netcoreapp3.1\VetClinic.genruntimeconfig.cache
