@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\bin\Debug\netcoreapp3.1\CustomList.exe
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\bin\Debug\netcoreapp3.1\CustomList.deps.json
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\bin\Debug\netcoreapp3.1\CustomList.runtimeconfig.json
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\bin\Debug\netcoreapp3.1\CustomList.runtimeconfig.dev.json
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\bin\Debug\netcoreapp3.1\CustomList.dll
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\bin\Debug\netcoreapp3.1\CustomList.pdb
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\obj\Debug\netcoreapp3.1\CustomList.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\obj\Debug\netcoreapp3.1\CustomList.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\obj\Debug\netcoreapp3.1\CustomList.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\obj\Debug\netcoreapp3.1\CustomList.AssemblyInfo.cs
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\obj\Debug\netcoreapp3.1\CustomList.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\obj\Debug\netcoreapp3.1\CustomList.dll
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\obj\Debug\netcoreapp3.1\CustomList.pdb
+D:\softuni\C# Advanced\Implementing Stacks and Queues\ConsoleApp2\obj\Debug\netcoreapp3.1\CustomList.genruntimeconfig.cache
