@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Armory\bin\Debug\netcoreapp3.1\Armory.exe
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Armory\bin\Debug\netcoreapp3.1\Armory.deps.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Armory\bin\Debug\netcoreapp3.1\Armory.runtimeconfig.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Armory\bin\Debug\netcoreapp3.1\Armory.runtimeconfig.dev.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Armory\bin\Debug\netcoreapp3.1\Armory.dll
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Armory\bin\Debug\netcoreapp3.1\Armory.pdb
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Armory\obj\Debug\netcoreapp3.1\Armory.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Armory\obj\Debug\netcoreapp3.1\Armory.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Armory\obj\Debug\netcoreapp3.1\Armory.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Armory\obj\Debug\netcoreapp3.1\Armory.AssemblyInfo.cs
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Armory\obj\Debug\netcoreapp3.1\Armory.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Armory\obj\Debug\netcoreapp3.1\Armory.dll
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Armory\obj\Debug\netcoreapp3.1\Armory.pdb
+D:\softuni\C# Advanced\EXAM_PREP\Problems\Armory\obj\Debug\netcoreapp3.1\Armory.genruntimeconfig.cache
