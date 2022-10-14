@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.Help-A-Mole\bin\Debug\netcoreapp3.1\T02.Help-A-Mole.exe
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.Help-A-Mole\bin\Debug\netcoreapp3.1\T02.Help-A-Mole.deps.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.Help-A-Mole\bin\Debug\netcoreapp3.1\T02.Help-A-Mole.runtimeconfig.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.Help-A-Mole\bin\Debug\netcoreapp3.1\T02.Help-A-Mole.runtimeconfig.dev.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.Help-A-Mole\bin\Debug\netcoreapp3.1\T02.Help-A-Mole.dll
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.Help-A-Mole\bin\Debug\netcoreapp3.1\T02.Help-A-Mole.pdb
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.Help-A-Mole\obj\Debug\netcoreapp3.1\T02.Help-A-Mole.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.Help-A-Mole\obj\Debug\netcoreapp3.1\T02.Help-A-Mole.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.Help-A-Mole\obj\Debug\netcoreapp3.1\T02.Help-A-Mole.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.Help-A-Mole\obj\Debug\netcoreapp3.1\T02.Help-A-Mole.AssemblyInfo.cs
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.Help-A-Mole\obj\Debug\netcoreapp3.1\T02.Help-A-Mole.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.Help-A-Mole\obj\Debug\netcoreapp3.1\T02.Help-A-Mole.dll
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.Help-A-Mole\obj\Debug\netcoreapp3.1\T02.Help-A-Mole.pdb
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.Help-A-Mole\obj\Debug\netcoreapp3.1\T02.Help-A-Mole.genruntimeconfig.cache
