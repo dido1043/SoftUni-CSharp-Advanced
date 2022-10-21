@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\T02.TheBattleOfTheFiveArmies.exe
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\T02.TheBattleOfTheFiveArmies.deps.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\T02.TheBattleOfTheFiveArmies.runtimeconfig.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\T02.TheBattleOfTheFiveArmies.runtimeconfig.dev.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\T02.TheBattleOfTheFiveArmies.dll
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\T02.TheBattleOfTheFiveArmies.pdb
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\T02.TheBattleOfTheFiveArmies.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\T02.TheBattleOfTheFiveArmies.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\T02.TheBattleOfTheFiveArmies.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\T02.TheBattleOfTheFiveArmies.AssemblyInfo.cs
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\T02.TheBattleOfTheFiveArmies.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\T02.TheBattleOfTheFiveArmies.dll
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\T02.TheBattleOfTheFiveArmies.pdb
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\T02.TheBattleOfTheFiveArmies.genruntimeconfig.cache

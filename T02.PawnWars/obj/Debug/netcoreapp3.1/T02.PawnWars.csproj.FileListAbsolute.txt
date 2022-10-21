@@ -1,0 +1,14 @@
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.PawnWars\bin\Debug\netcoreapp3.1\T02.PawnWars.exe
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.PawnWars\bin\Debug\netcoreapp3.1\T02.PawnWars.deps.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.PawnWars\bin\Debug\netcoreapp3.1\T02.PawnWars.runtimeconfig.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.PawnWars\bin\Debug\netcoreapp3.1\T02.PawnWars.runtimeconfig.dev.json
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.PawnWars\bin\Debug\netcoreapp3.1\T02.PawnWars.dll
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.PawnWars\bin\Debug\netcoreapp3.1\T02.PawnWars.pdb
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.PawnWars\obj\Debug\netcoreapp3.1\T02.PawnWars.csproj.AssemblyReference.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.PawnWars\obj\Debug\netcoreapp3.1\T02.PawnWars.GeneratedMSBuildEditorConfig.editorconfig
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.PawnWars\obj\Debug\netcoreapp3.1\T02.PawnWars.AssemblyInfoInputs.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.PawnWars\obj\Debug\netcoreapp3.1\T02.PawnWars.AssemblyInfo.cs
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.PawnWars\obj\Debug\netcoreapp3.1\T02.PawnWars.csproj.CoreCompileInputs.cache
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.PawnWars\obj\Debug\netcoreapp3.1\T02.PawnWars.dll
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.PawnWars\obj\Debug\netcoreapp3.1\T02.PawnWars.pdb
+D:\softuni\C# Advanced\EXAM_PREP\Problems\T02.PawnWars\obj\Debug\netcoreapp3.1\T02.PawnWars.genruntimeconfig.cache
